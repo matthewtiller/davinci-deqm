@@ -125,7 +125,7 @@
       <max value="*"/>
       <type>
         <code value="Extension"/>
-        <profile value="http://hl7.org/fhir/StructureDefinition/measurereport-supplementalData"/>
+        <profile value="http://hl7.org/fhir/5.0/StructureDefinition/extension-MeasureReport.supplementalData"/>
       </type>
       <mustSupport value="true"/>
     </element>
